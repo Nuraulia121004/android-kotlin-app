@@ -1,4 +1,4 @@
-package id.ac.polbeng.depandienda.androidkotlinapp
+package id.ac.depandienda.androidkotlinapp
 
 import org.junit.Test
 

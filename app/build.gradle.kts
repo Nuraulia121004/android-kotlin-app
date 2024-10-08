@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "id.ac.polbeng.depandienda.androidkotlinapp"
+    namespace = "id.ac.polbeng.aulia.androidkotlinapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "id.ac.polbeng.depandienda.androidkotlinapp"
+        applicationId = "id.ac.polbeng.aulia.androidkotlinapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
